@@ -1,0 +1,18 @@
+{
+  "Build": "build_id",
+  "ExportVersion": 2,
+  "ExposureChecks": [
+    {
+      "Timestamp": "2021-09-13 16:41:57 +0100",
+      "Files": [
+        {
+          "Hash": "fake_hash_data",
+          "KeyCount": 120,
+          "AppBundleIdentifier": "club.chachy.exposure"
+        }
+      ],
+      "AppBundleIdentifier": "club.chachy.exposure"
+    }
+  ],
+  "DeviceProductType": "JUnitRunner"
+}
